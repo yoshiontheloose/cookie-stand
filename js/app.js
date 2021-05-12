@@ -30,7 +30,7 @@ const Seattle = {
        let cookiePerHour = randCustomerNum * this.avgsale;          // 3. Calculate and store the simulated amounts of cookies purchased for each hour
        console.log(cookiePerHour, 'cookies purchased per hour');
 
-       this.cookieNum = [this.hours[i], + ': ' + cookiePerHour];
+       this.cookieNum = [this.hours[i], + cookiePerHour];
        console.log(this.hours[i], cookiePerHour);
     }
   }
