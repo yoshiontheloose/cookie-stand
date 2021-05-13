@@ -1,4 +1,4 @@
-# LAB - Number 06 https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/
+# LAB - Number 06 
 # cookie-stand
 
 Problem Domain
@@ -21,11 +21,12 @@ So, in addition to building an application that calculates daily sales projectio
 
 Author:
 Links and Resources
+https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
 
 submission PR
-Any Links you used as reference
 Reflections and Comments
 Consider including the answers to your daily journal and submission questions here
 This is also a good place to reflect on the tools and resources used and learned
